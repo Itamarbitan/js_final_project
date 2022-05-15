@@ -1,0 +1,18 @@
+create two buttons with a event listener that collects (prompt) a three values for a rgb color.
+create a template that will save each values to a variable.
+then assign the variable into the color of the object background
+when the user click to save to color the program will save into the sessionStorage and print it below
+
+
+
+
+
+
+
+
+
+
+
+
+
+const colors = [0 , 1 , 2 , 3 , 4, 5, 6, 7, 8, 9, 'A' , 'B' , 'C' , 'D' , 'E' , 'F'];

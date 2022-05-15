@@ -1,0 +1,11 @@
+table{
+    margin: auto;
+}
+
+td {
+    border: solid 1px;
+}
+
+.disapear{
+    display: none;
+}

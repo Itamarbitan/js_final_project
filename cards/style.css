@@ -1,0 +1,30 @@
+body {
+    background-color: green;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card1 {
+    border: solid 1px;
+    width: 60px;
+    height: 100px;
+    display: block;
+    background-color: rgb(229, 229, 190);
+}
+
+.card2 {
+    border: solid 1px;
+    width: 60px;
+    height: 100px;
+    display: block;
+    background-color: rgb(229, 229, 190);
+
+}
+
+.btn {
+    border-radius: 5px;
+    color: blue;
+}
